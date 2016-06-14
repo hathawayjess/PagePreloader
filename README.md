@@ -1,6 +1,6 @@
 #Page Preloader
 
-Based off of Codrops tutorial found here - http://tympanus.net/codrops/2014/08/05/page-preloading-effect/
+Based off of Codrops tutorial found [here](http://tympanus.net/codrops/2014/08/05/page-preloading-effect/)
 
 
 This is a page preloading effect made with CSS animations, SVG, and JavaScript.
