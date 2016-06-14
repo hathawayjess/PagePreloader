@@ -179,6 +179,12 @@ body {
 	to { -webkit-transform: translate3d(0,-100%,0); transform: translate3d(0,-100%,0); }
 }
 
+
+/*Content animations*/
+.loaded .ip-main h2 {
+	animation: animLoadedContent 1s cubic-bezier(0.7,0,0.3,1) both;
+}
+
 /* Change layout class for header */
 .layout-switch .ip-header {
 	position: absolute;
@@ -212,7 +218,7 @@ body {
 	}
 
 	.box {
-		width: 100%%;
+		width: 100%;
 	}
 
 }
